@@ -6,8 +6,8 @@ churned yet, to one of the 3 clusters:
 3. Other users - 25-75%
 
 INPUT DATA
-The data is stored on MongoDB NoSQL database called ‘data’ and can be accessed at analytics.adviseme.app:27017. There are
-three collections in total:
+The data is stored on MongoDB NoSQL database called ‘data’ and can be accessed at -------. 
+There are three collections in total:
   • “export_api” is a collection of documents that store events data
   • “users” is a collection of documents that store up-to-date user data
   • “script_data” is a collection that is not required in the task below
