@@ -17,9 +17,9 @@ Please see the data definitions and events list here.
 # DELIVERABLES:
 The solution should consist of:
   1. One file with the results of the task that contains two fields:
-    a. amplitude_id - unique id of a user
-    b.The segment the user belongs to
+    - amplitude_id - unique id of a user
+    - The segment the user belongs to
   2. The code that was used for solution - link to GitHub or archived file
   3. A pdf file that describes the following points:
-    a. Why the proposed model is a good solution?
-    b. Your steps were taken to achieve the proposed solution
+    - Why the proposed model is a good solution?
+    - Your steps were taken to achieve the proposed solution
